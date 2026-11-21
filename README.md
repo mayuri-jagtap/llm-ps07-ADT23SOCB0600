@@ -86,7 +86,7 @@ It sends both to the Gemini API and displays the generated response next to the 
 ## 📂 Project Structure
 
 ```text
-ResearchAbstractSimplifier/
+llm-ps07-ADT23SOCB0600/
 │
 ├── app.py              # Streamlit application
 ├── requirements.txt    # Python dependencies
@@ -105,8 +105,8 @@ ResearchAbstractSimplifier/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/mayuri-jagtap/llm-ps07-ADT23SOCB0600.git
+cd llm-ps07-ADT23SOCB0600
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
